@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+__MACOSX/
+
+# Data (Optional: uncomment if you don't want to upload data files)
+# data/*.csv
+# !data/.gitkeep
