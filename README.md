@@ -1,4 +1,4 @@
-# End-to-End Supervised Machine Learning Portfolio
+# End-to-End DSML Learning Portfolio
 
 Welcome to my machine learning portfolio! This project is designed to be a clean, beginner-friendly, and practical demonstration of the **Data Science Lifecycle** applied to supervised learning problems. 
 
